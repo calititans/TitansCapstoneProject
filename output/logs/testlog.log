@@ -1,0 +1,37 @@
+2022-06-08 18:58:18,091 - .\src\test\resources\input\log4j.properties -INFO - Scenariologin to Test Environmentstarted
+2022-06-08 18:58:23,605 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentUNDEFINED
+2022-06-08 19:00:13,693 - .\src\test\resources\input\log4j.properties -INFO - Scenariologin to Test Environmentstarted
+2022-06-08 19:00:17,104 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentUNDEFINED
+2022-06-08 19:12:59,000 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test Environment started
+2022-06-08 19:13:02,479 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentUNDEFINED
+2022-06-08 20:54:54,238 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test Environment started
+2022-06-08 20:54:57,629 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail Website
+2022-06-08 20:54:57,883 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount option
+2022-06-08 20:54:58,150 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Login Option
+2022-06-08 20:54:58,367 - .\src\test\resources\input\log4j.properties -INFO - user enter cali.titans@tekschool.us and cali123
+2022-06-08 20:54:58,761 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 20:54:58,817 - .\src\test\resources\input\log4j.properties -INFO - user is on My Account Page
+2022-06-08 20:54:59,501 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentPASSED
+2022-06-08 20:55:54,223 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test Environment started
+2022-06-08 20:55:57,123 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail Website
+2022-06-08 20:56:02,204 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount option
+2022-06-08 20:56:07,461 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Login Option
+2022-06-08 20:56:12,656 - .\src\test\resources\input\log4j.properties -INFO - user enter cali.titans@tekschool.us and cali123
+2022-06-08 20:56:18,075 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 20:56:23,134 - .\src\test\resources\input\log4j.properties -INFO - user is on My Account Page
+2022-06-08 20:56:28,830 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentPASSED
+2022-06-08 20:57:05,168 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test Environment started
+2022-06-08 20:57:07,825 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail Website
+2022-06-08 20:57:12,897 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount option
+2022-06-08 20:57:18,173 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Login Option
+2022-06-08 20:57:23,376 - .\src\test\resources\input\log4j.properties -INFO - user enter cali.titans@tekschool.us and cali123
+2022-06-08 20:57:28,887 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-06-08 20:57:33,937 - .\src\test\resources\input\log4j.properties -INFO - user is on My Account Page
+2022-06-08 20:57:39,621 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Test EnvironmentPASSED
+2022-06-15 20:15:34,347 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-15 20:15:39,350 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodUNDEFINED
+2022-06-15 20:34:30,461 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-15 20:34:33,303 - .\src\test\resources\input\log4j.properties -INFO - user is on Retail Website
+2022-06-15 20:34:34,023 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount option
+2022-06-15 20:34:34,250 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Login Option
+2022-06-15 20:34:35,186 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment MethodPASSED
