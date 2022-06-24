@@ -35,3 +35,62 @@
 2022-06-15 20:34:34,023 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
 2022-06-15 20:34:34,250 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
 2022-06-15 20:34:35,186 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodPASSED
+2022-06-23 14:00:40,030 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-06-23 14:00:44,178 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-23 14:00:45,476 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabUNDEFINED
+2022-06-23 14:52:05,754 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-06-23 14:52:08,709 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-23 14:52:15,357 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Desktops tab
+2022-06-23 14:52:21,755 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-06-23 14:52:21,848 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-06-23 14:52:21,893 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-06-23 14:52:21,924 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-06-23 14:52:21,968 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-06-23 14:52:22,005 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-06-23 14:52:22,067 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-06-23 14:52:22,126 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-06-23 14:52:22,155 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-06-23 14:52:22,188 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-06-23 14:52:22,234 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-06-23 14:52:22,299 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-06-23 14:52:22,325 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-06-23 14:52:22,357 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-06-23 14:52:22,408 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-06-23 14:52:28,702 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-06-23 14:56:04,262 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-06-23 14:56:07,082 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-23 14:56:12,995 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Desktops tab
+2022-06-23 14:56:18,750 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-06-23 14:56:18,870 [main] INFO .\src\test\resources\input\log4j.properties -  is present
+2022-06-23 14:56:18,899 [main] INFO .\src\test\resources\input\log4j.properties - Desktops is present
+2022-06-23 14:56:18,928 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30" is present
+2022-06-23 14:56:18,976 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camera is present
+2022-06-23 14:56:19,042 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065 is present
+2022-06-23 14:56:19,086 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HD is present
+2022-06-23 14:56:19,128 [main] INFO .\src\test\resources\input\log4j.properties - iPhone is present
+2022-06-23 14:56:19,160 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classic is present
+2022-06-23 14:56:19,190 [main] INFO .\src\test\resources\input\log4j.properties - MacBook is present
+2022-06-23 14:56:19,222 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Air is present
+2022-06-23 14:56:19,255 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Pro is present
+2022-06-23 14:56:19,288 [main] INFO .\src\test\resources\input\log4j.properties - Product 8 is present
+2022-06-23 14:56:19,349 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BW is present
+2022-06-23 14:56:19,377 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIO is present
+2022-06-23 14:56:25,364 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-06-23 18:13:18,808 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-23 18:13:21,588 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-23 18:13:22,308 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-23 18:13:22,559 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-23 18:13:23,483 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodPASSED
+2022-06-23 19:16:10,081 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-23 19:16:12,665 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-06-23 19:16:18,413 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on MyAccount option
+2022-06-23 19:16:18,651 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Option
+2022-06-23 19:16:19,300 [main] INFO .\src\test\resources\input\log4j.properties - user entered testtek@tekschool.us and 123456
+2022-06-23 19:16:25,162 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Login Button
+2022-06-23 19:16:25,220 [main] INFO .\src\test\resources\input\log4j.properties - user logged in to myAccount dashboard
+2022-06-23 19:16:30,999 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Register for an Affiliate Account link
+2022-06-23 19:16:36,364 [main] INFO .\src\test\resources\input\log4j.properties - user filled affiliate form
+2022-06-23 19:16:41,950 [main] INFO .\src\test\resources\input\log4j.properties - user checked on About us check box
+2022-06-23 19:16:42,401 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Continue button
+2022-06-23 19:16:42,453 [main] INFO .\src\test\resources\input\log4j.properties - success message is present
+2022-06-23 19:16:48,644 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodPASSED

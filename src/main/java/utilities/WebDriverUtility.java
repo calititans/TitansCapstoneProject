@@ -183,5 +183,20 @@ public class WebDriverUtility extends Base {
 			return false;
 
 	}
+	
+	
+	public static void moveToElement(WebElement element) {
+		Actions action = new Actions(driver);
+		action.moveToElement(element).build().perform();
+	}
+	
+	public static void hardWait() {
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 
 }

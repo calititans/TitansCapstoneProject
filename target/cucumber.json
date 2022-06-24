@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5791533000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 59699600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click  on MyAccount",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_click_on_MyAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 742443700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Login",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5652984900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username \u0027testtek@tekschool.us\u0027 and password \u0027123456\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027testtek@tekschool.us\u0027",
+                  "offset": 20
+                },
+                {
+                  "val": "\u0027123456\u0027",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDef.RetailStepDefinition.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 352938700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Login button",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5527741000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be logged in to MyAccount dashboard",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_should_be_logged_in_to_Myaccount_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-06-24T02:16:09.914Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2597428400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Register as an Affiliate user with Cheque Payment Method",
+        "description": "",
+        "id": "retail-page;register-as-an-affiliate-user-with-cheque-payment-method",
+        "after": [
+          {
+            "result": {
+              "duration": 639955200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5311599500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on Register for an Affiliate Account link",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_click_on_register_for_an_affiliate_account_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5883136200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User fill affiliate form with below information",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_fill_affiliate_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "company",
+                  "website",
+                  "taxID",
+                  "paymentMethod",
+                  "payeeName"
+                ]
+              },
+              {
+                "cells": [
+                  "TEK",
+                  "tekschool.us",
+                  "123456",
+                  "Cheque",
+                  "TEK User"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63132900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User check on About us check box",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_check_on_about_us_check_box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 449399700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User click on Continue button",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5603096100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User should see a success message",
+            "match": {
+              "location": "stepDef.RetailStepDefinition.user_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Register"
+          }
+        ]
+      }
+    ],
+    "name": "Retail Page",
+    "description": "",
+    "id": "retail-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/RetailPage.feature",
+    "tags": []
+  }
+]

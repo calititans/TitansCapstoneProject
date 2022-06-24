@@ -1,8 +1,10 @@
 package runner;
 
+import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
+import utilities.CucumberReportingConfig;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -20,4 +22,8 @@ import io.cucumber.junit.CucumberOptions;
 
 public class TestRunner {
 
+	@AfterClass
+	public static void generateReport() {
+		CucumberReportingConfig.reportConfig();
+	}
 }
